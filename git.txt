@@ -1,0 +1,19 @@
+git init- inicial um repositório "vazio"
+
+git add "nome do arquivo"- inclui no repositório
+-> git add. adiciona todos os arquivos
+git status- mostra se a mudanças no arquivo
+
+git commit -m "mensagem" - cria nó temporal
+
+git config --<escapo, global, local> user.email - add email para manipular o repositório 
+
+git config --<escapo> user.name "seu nome" - add um usuário
+
+git remote add origim "link repo" - associa o repósitório locala um remoto
+
+git push origim master - envia o conteúdo local ao repo
+
+git pull -atualiza o repo local com o conteúdo remoto.
+
+Feito por Ana Beatriz e Luana Vitoriano.
